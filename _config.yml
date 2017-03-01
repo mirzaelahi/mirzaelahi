@@ -1,22 +1,26 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Mirza M. Elahi
+email: me5vp@virginia.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+baseurl: "/~me5vp" # the subpath of your site, e.g. /blog/
+url: "http://people.virginia.edu" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  mirzaelahi
+linkedin_username:  mirzamonzur
+googlescholar_username: Mirza Elahi
+googlescholar_id: DoijB9AAAAAJ&hl=en
+researchgate_username: Mirza_Elahi3
+copyright_start: 2014
 
 # Build settings
 markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
-job.title: "Assistant Professor"
+job.title: "Graduate Student"
 excerpt_separator: "<!--more-->"
+port: 3000
 
 # SEO stuff
 # google_author: ""
