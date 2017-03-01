@@ -228,6 +228,11 @@ html {
   overflow-y: scroll;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 ul.listing {
 	list-style-type: none;
 	margin-left: 0px;
@@ -253,6 +258,10 @@ ul.listing li.listing-item a {
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
+
+.Picture { border: 1px solid $clemson-purple; }
+
+
 /* listing intedation fix */
 .number-listing{
     ol,li {
