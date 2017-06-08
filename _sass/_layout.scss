@@ -262,6 +262,7 @@ ul.listing li.listing-item a {
 .Picture { border: 1px solid $clemson-purple; }
 
 
+
 /* listing intedation fix */
 .number-listing{
     ol,li {
@@ -286,4 +287,10 @@ ul.listing li.listing-item a {
         text-align: right;
         padding-right: .3em;
     }
+}
+
+.column2 {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
 }

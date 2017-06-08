@@ -4,9 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-## Carrier Transport in Graphene [Aug 2014-Till Date]
+## Carrier Transport in Graphene  <img class="Picture" src="{{ site.baseurl }}/images/src.png" alt="uva" width="60" align="right"><img class="Picture" src="{{ site.baseurl }}/images/uva.jpg" alt="uva" width="75" align="right"> 
+<p align="right">[Aug 2014-Till Date]</p>
+We explore both analytical and numerical methods to understand various aspects of graphene’s fundamental electronic structure, device and circuit level properties. I am involved in developing multiple simulation tools ([QUEST](https://github.com/masumhabib/quest)), consisting nonequilibrium Green's function formalism and semiclassical ray tracing with quantum tunneling model included, to explore electronic transport in 2D materials, to be specific Graphene.
 
-We explore both analytical and numerical methods to understand various aspects of graphene’s fundamental electronic structure, device and circuit level properties. I am involved in developing multiple simulation tools (NEGF, semi-classical ray tracing) to explore electronic transport in 2D materials, to be specific Graphene
+In freshman optics, we learn about how light behaves at interfaces - Snell's law describes its bending, Fresnel's law describes its transmission, and Malus' law describes how to extinguish it with a polarizer-analyzer pair. We demonstrate that electrons in graphene can replicate all these photonic behaviors, except they are directly tunable with gate fields and can thus show highly unconventional analogs of Snell, Fresnel and Malus' law. Using a PN junction, we demonstrated that the refractive index can be turned negative, making electrons focus without a lens. The electrons at zero degree of incidence cannot back-scatter because of symmetry rules, so they transmit through arbitrarily high voltage barriers (Klein tunneling). Using two angled junctions, we can turn back these electrons like a polarizer analyzer, except we can control the degree of polarization precisely. All these attributes come together to help us design an electron based Klein tunnel switch in graphene. Such a switch can help us turn off graphene in the absence of a band-gap, thus making good use of its high transmission speed. The switch can also be used to build analog RF devices with high cut-off frequency. 
 
 ***
 
@@ -18,8 +20,9 @@ We explore both analytical and numerical methods to understand various aspects o
 
 ***
 
-## AllShare Framework Development and Windows Mobile Application [May 2012 - Jul 2014]
+## AllShare Framework Development and Windows Mobile Application <img class="Picture" src="{{ site.baseurl }}/images/samsung.png" alt="uva" width="130" align="right">
 
+<p align="right">[May 2012 - Jul 2014]</p>
 -   AllShare Framework Development for Windows 8 and Windows Phone 8
 -   Project Based on Networking Protocol (TCP/IP), Networking Standard (UPnP), and Technology Standard (DLNA)
 -   Used Task Parallelism and WinRT API for building framework and Windows Store App.
@@ -31,7 +34,9 @@ We explore both analytical and numerical methods to understand various aspects o
 <p align="justify">
 My Undergraduate thesis is on “Analytical Modeling of On and Off current of Gate on Source Tunnel FET”. This work was supervised by Dr. Md. Shofiqul Islam. Here we proposed a complete  analytical model of the TFET and insight into the working principle of the device, a TFET structure is used that has its gate placed fully on  the source not covering the channel at all. Using Kane’s model and the line tunneling concept, an analytical model is developed for the TFET’s tunnel current that includes both the drain voltage and gate voltage dependence. Important quantum phenomenon  –  subband quantization  is considered due to the narrow potential well. Particularly,  the discreteness of the subband energy levels will drastically affect the BTBT transition probabilities and hence the tunneling current. Whereas in Kane’s model the energy spectra of both the valence and the conduction bands are considered continuous, transitions from a valence band with a continuous spectrum of a conduction band consisting of discrete subbands  is considered. Thus, this thesis paper has successfully introduced the subband quantization phenomenon in the  analytical modeling of the TFET structure considered.
 </p>
-
+<p align="center">
+<img class="Picture" src="{{ site.baseurl }}/images/tfet.bmp" alt="Gate on source tunnel field effect transistor" width="400" align="center">
+</p>
 <!--Tell us about your blog. Hopefully it's cool.-->
 <!---->
 <!--<ul class="listing">-->

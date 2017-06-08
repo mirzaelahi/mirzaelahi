@@ -56,3 +56,8 @@ pp. {{ post.pages }},
 {% endfor %}
 </ol>
 </div>
+
+<h1>Graphical Presentation </h1>
+<div>
+<img class="Picture" src="{{ site.baseurl }}/images/scholarPlot.png" alt="timeline" width="1000" style="padding: 10px 0 0 0;">
+</div>
