@@ -2,18 +2,18 @@
 layout: post
 categories: conference
 title: "Gate tunable transport-gap to beat the Boltzmann limit: a Graphene Klein Tunnel Field Effect Transistor"
-year: "2017 (accepted)"
+year: "2017"
 shortref: "Elahi <i>et al., E3S</i>, 2017"
 shorttitle:
 nickname: beating-boltzmann-limit-e3s-2017
 groupauthors: "mirza, masum, avik"
-journal: "5th Berkeley Symposium on Energy Efficient Electronic Systems (E3S)"
+journal: "2017 Fifth Berkeley Symposium on Energy Efficient Electronic Systems & Steep Transistors Workshop (<b>E3S</b>)"
 volume:
 issue: 
-pages:
+pages: 1-3
 authors: "Mirza M. Elahi, K. M. Masum Habib, and A. W. Ghosh"
 image: /assets/images/news/default-news.png
-fulltext: 
+fulltext: https://www.dx.doi.org/10.1109/E3S.2017.8246165 
 pdf: 
 pdflink: 
 github: 
@@ -21,7 +21,7 @@ pmid:
 pmcid: 
 f1000: 
 figshare: 
-doi: 
+doi: 10.1109/E3S.2017.8246165 
 category: publication
 type: "conference"
 published: true

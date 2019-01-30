@@ -3,13 +3,13 @@ layout: page
 categories: publication
 title: "Graphene Klein tunnel transistors for high speed analog RF applications"
 year: "2017"
-shortref: "Tan <i>et al., arXiv:1705.08263</i>, 2017"
+shortref: "Tan <i>et al., Scientific Reports</i>, 2017"
 nickname: GKTFET-RF-mirza-sr-2017
 groupauthors: "mirza, yaohua, masum, avik"
-journal: "Scientific Reports"
+journal: "<b>Scientific Reports</b>"
 volume: 7
-issue: 9714
-pages: 
+issue: 1
+pages: 9714
 authors: "Yaohua Tan, Mirza M. Elahi, Han-Yu Tsao, K. M. Masum Habib, N. Scott Barker, Avik W. Ghosh"
 image: /assets/images/news/default-news.png
 pdf: 

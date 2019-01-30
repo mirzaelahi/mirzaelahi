@@ -6,7 +6,7 @@ year: "2016"
 shortref: "Chen <i>et al., Science</i>, 2016"
 nickname: electron-optics-mirza-science-2016
 groupauthors: "mirza, masum, avik"
-journal: "Science"
+journal: "<b>Science</b>"
 volume: 353
 issue: 6307
 pages: 1522-1525

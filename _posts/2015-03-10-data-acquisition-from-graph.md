@@ -8,9 +8,11 @@ excerpt:
   Learn how to extract data from a figure
 ---
 
-We face many problems in comparing our results with a published paper. To acquire data from a image file of the graph, one may use this method.
+We face many problems in comparing our results with a published paper. To acquire data from a image file, one may use these methods.
 
--   Download the [digitize2.m](http://www.mathworks.com/matlabcentral/fileexchange/928-digitize2-m) (Authors: A. Prasad, Original version created by J.D.Cogdell).
+1. [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) by Ankit Rohatgi
+
+2. Matlab script - Download the [digitize2.m](http://www.mathworks.com/matlabcentral/fileexchange/928-digitize2-m) (Authors: A. Prasad, Original version created by J.D.Cogdell).
 
 >There is a bug in this file.
 

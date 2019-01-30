@@ -7,7 +7,7 @@ shortref: "Elahi <i>et al., DRC</i>, 2016"
 shorttitle:
 nickname: current-saturation-graphene-mirza-drc-2016
 groupauthors: "mirza, avik"
-journal: "74th Device Research Conference"
+journal: "74th Device Research Conference (<b>DRC</b>)"
 volume: 1
 issue: 
 pages: 1-2

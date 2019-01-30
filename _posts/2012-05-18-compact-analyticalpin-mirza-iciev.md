@@ -7,10 +7,10 @@ shortref: "Ahmed <i>et al., ICIEV</i>, 2012"
 shorttitle:
 nickname: compact-analyticalpin-mirza-iciev-2012
 groupauthors: "mirza"
-journal: "International Conference on Informatics, Electronics & Vision (ICIEV)"
+journal: "International Conference on Informatics, Electronics & Vision (<b>ICIEV</b>)"
 volume:
 issue: 
-pages:
+pages: 521-524
 authors: "Kawser Ahmed, Mirza M. Elahi, and Md. Shofiqul Islam"
 image: /assets/images/news/default-news.png
 fulltext: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6317361

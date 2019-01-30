@@ -7,10 +7,10 @@ shortref: "Elahi <i>et al., ICECE</i>, 2012"
 shorttitle:
 nickname: improved-analytical-tfet-mirza-icece-2012
 groupauthors: "mirza"
-journal: "7th International Conference on Electrical & Computer Engineering (ICECE)"
+journal: "7th International Conference on Electrical & Computer Engineering (<b>ICECE</b>)"
 volume:
 issue: 
-pages:
+pages: 802-805
 authors: "Mirza M. Elahi, Kawser Ahmed, and Md. Shofiqul Islam"
 image: /assets/images/news/default-news.png
 fulltext: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6471672

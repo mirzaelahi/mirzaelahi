@@ -7,10 +7,10 @@ shortref: "Islam <i>et al., ICIEV</i>, 2012"
 shorttitle:
 nickname: off-current-tfet-mirza-iciev-2012
 groupauthors: "mirza"
-journal: "International Conference on Informatics, Electronics & Vision (ICIEV)"
+journal: "International Conference on Informatics, Electronics & Vision (<b>ICIEV</b>)"
 volume:
 issue: 
-pages:
+pages: 814-817
 authors: "Md. Shofiqul Islam, Kawser Ahmed, and Mirza M. Elahi"
 image: /assets/images/news/default-news.png
 fulltext: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6471675
