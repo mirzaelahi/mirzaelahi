@@ -26,7 +26,7 @@ permalink: /publication/
             pp. {{ post.pages }},
             {% endif %}
             {{ post.year }}</a>.
-            </br>
+            
 
         </li>
     {% endif %}
@@ -64,7 +64,7 @@ permalink: /publication/
                     <br>{{ post.authors | replace_first: 'Mirza M. Elahi', '<b>Mirza M. Elahi</b>'}}
                     <br>
                         <a href="{{ post.fulltext }}"><i>{{post.journal}}</i>{% if post.volume %}, vol. {{ post.volume }}{% endif %}{% if post.issue %}, no. {{ post.issue }}{% endif %}{% if post.pages %}, pp. {{ post.pages }}{% endif %}, {{ post.year }}</a>.
-                    </br>
+                    
                 </li>
             {% endif %}
         {% endfor %}
