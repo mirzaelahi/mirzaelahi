@@ -35,7 +35,7 @@ permalink: /publication/
 </div>
 
 
-<h1>Journal</h1>
+<h1>Journal Articles</h1>
 <div >
 <ol class="number-listing">
 {% for post in site.categories.publication %}
@@ -46,7 +46,6 @@ permalink: /publication/
         <br>{{ post.authors | replace_first: 'Mirza M. Elahi', '<b>Mirza M. Elahi</b>'}}
         <br>
             <a href="{{ post.fulltext }}"><b><i>{{post.journal}}</i></b>{% if post.volume %}, vol. {{ post.volume }}{% endif %}{% if post.issue %}, no. {{ post.issue }}{% endif %}{% if post.pages %}, pp. {{ post.pages }}{% endif %}, {{ post.year }}</a>.
-            </br>
         </li>
     {% endif %}
 {% endfor %}
