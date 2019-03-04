@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 ---
 {% assign journal_count = 0 %}
-<h1>Preprint</h1>
+<!-- <h1>Preprint</h1> -->
 <div >
 <ol class="number-listing">
 {% for post in site.categories.publication %}
