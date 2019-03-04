@@ -3,8 +3,8 @@ title: Mirza M. Elahi
 email: me5vp@virginia.edu
 description: > # this means to ignore newlines until "baseurl:"
 
-baseurl: "/~me5vp" # the subpath of your site, e.g. /blog/
-url: "http://people.virginia.edu" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://mirzaelahi.github.io/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  mirzaelahi
 linkedin_username:  mirzamonzur
