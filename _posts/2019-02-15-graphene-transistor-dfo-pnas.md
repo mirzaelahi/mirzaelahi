@@ -3,24 +3,24 @@ layout: page
 categories: publication
 title: "Graphene transistor based on tunable Dirac-Fermion-Optics"
 year: "2019"
-shortref: "Wang <i>et al., PNAS</i> (in press), 2018"
+shortref: "Wang <i>et al., PNAS</i>, 2019"
 nickname: graphene-transistor-dfo-pnas-2019
 groupauthors: "mirza, masum, avik"
 journal: "<b>Proceedings of the National Academy of Sciences of the USA</b> (in press)"
-volume: 
-issue: 
-pages: 
+volume: "116"
+issue: "14"
+pages: "6575-6579"
 authors: "Ke Wang, Mirza M. Elahi, Lei Wang, K. M. Masum Habib, Takashi Taniguchi, Kenji Watanabe, James Hone, Avik W. Ghosh, Gil-Ho Lee, and Philip Kim"
 image:
 pdf: 
-fulltext: https://arxiv.org/abs/1809.06757
+fulltext: https://doi.org/10.1073/pnas.1816119116
 github: 
 pmid: 
 pmcid: 
 f1000: 
 figshare: 
 altmetric_id: 
-doi: 
+doi: 10.1073/pnas.1816119116
 category: publication
 type: "journal"
 published: true
