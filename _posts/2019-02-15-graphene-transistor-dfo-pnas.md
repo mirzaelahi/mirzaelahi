@@ -6,7 +6,7 @@ year: "2019"
 shortref: "Wang <i>et al., PNAS</i>, 2019"
 nickname: graphene-transistor-dfo-pnas-2019
 groupauthors: "mirza, masum, avik"
-journal: "<b>Proceedings of the National Academy of Sciences of the USA</b> (in press)"
+journal: "<b>Proceedings of the National Academy of Sciences of the USA</b>"
 volume: "116"
 issue: "14"
 pages: "6575-6579"
